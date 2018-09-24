@@ -1,4 +1,4 @@
-# Histopathology-Images-Classification
+# Histopathology_Images_Classification
 Medical images analysis has become a topic under the spotlight in recent years. There is a significant progress in medical image research concerning machine learning. However, there are still a lot of questions and problems awaiting answers and solutions. 
 
 In the present study, comparison of three classification models is conducted using features extracted from Local Binary Pattern (LBP), Histogram of Gradient (HOG) and Deep Model (VGG 19). Three common image classification methods, including Support Vector Machine (SVM), Decision Tree (DT) and Artificial Neural Network (ANN) are used to classify features vectors obtained by features extractors. 
